@@ -8,4 +8,4 @@ url = Url()
 playwright = Playwright()
 expectations = Expectations()
 index_page = IndexPage()
-qase = Qase()git
+qase = Qase()

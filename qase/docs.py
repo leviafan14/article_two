@@ -58,4 +58,4 @@ class Docs:
 
         def delete_database(self) -> bool:
             os.remove(self.databse_path)
-            return no os.path.exists(self.databae_path)
+            return not os.path.exists(self.databae_path)
